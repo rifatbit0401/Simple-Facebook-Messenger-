@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FacebookTest\FacebookTest\bin\Debug\netcoreapp2.0\FacebookTest.deps.json
+C:\Users\User\source\repos\FacebookTest\FacebookTest\bin\Debug\netcoreapp2.0\FacebookTest.runtimeconfig.json
+C:\Users\User\source\repos\FacebookTest\FacebookTest\bin\Debug\netcoreapp2.0\FacebookTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\FacebookTest\FacebookTest\bin\Debug\netcoreapp2.0\FacebookTest.dll
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.AssemblyInfo.cs
+C:\Users\User\source\repos\FacebookTest\FacebookTest\bin\Debug\netcoreapp2.0\FacebookTest.pdb
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.dll
+C:\Users\User\source\repos\FacebookTest\FacebookTest\obj\Debug\netcoreapp2.0\FacebookTest.pdb
